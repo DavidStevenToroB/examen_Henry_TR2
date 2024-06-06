@@ -91,12 +91,21 @@ hr{
     .boxSection{
         margin: 0px 10px;
         width: 310px;
-        height: 550px;
+        height: 580px;
     }
     #sectionSpecial{
         margin: 0px 0px;
         display: flex;
         align-self: none;
+    }
+    #boxSpecial{
+        height: 590px;
+    }
+    .pSpecial{
+        width: 230px;
+        font-size: 20px;
+        text-align: justify;
+    
     }
     hr{
         padding: 0px 250px ;
